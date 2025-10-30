@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlanF4rias
-- 👀 I’m interested in Code, movies, sports,...
-- 🌱 I’m currently studying Software Enginner
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Tecnology in general
+- 🌱 I’m currently studying Computer Science
+- 💞️ I’m looking to collaborate on tech projects
 - 📫 How to reach me Email: alan.fariias@gmail.com ; IG: who_am_alan
 
 <!---
